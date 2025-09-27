@@ -25,7 +25,7 @@
 <div style="display: flex; gap: 20px;">
 <img src="https://imgs.search.brave.com/c2R3XyrNbDL0MgrGPdDJFAiibowmGOwqNifC79pZSiw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/cC13SU82NEhONWNB/QUFBTS93YWtlLXVw/LmdpZg.gif" width="200" height="200" />
 <img src="https://imgs.search.brave.com/uwwt3xOBpr76JmZK284KFTwgAFTkihOUt18SGXAsI80/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/dmZTYnZGMy1FV3dB/QUFBTS93ZWFwb24t/aG9ybmV0LmdpZg.gif" width="200" height="200" />
-<img src="" width="200" height="200" />
+
 
   
 </div>
