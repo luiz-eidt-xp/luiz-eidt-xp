@@ -1,35 +1,41 @@
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=luiz-eidt-xp&show_icons=true&theme=catppuccin_mocha")
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=luiz-eidt-xp&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=luiz-eidt-xp&show_icons=true" />
-</picture>
-<a href="https://github.com/anuraghazra" target="_blank" rel="noopener">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-eidt-xp&layout=compact&theme=catppuccin_mocha" alt="Top Langs">
-</a>
-<hr>
-<div style="display: flex; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="50px" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="50px" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  height="50px" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50px" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="50px" width="50px"  />
-                             
+
+# 👋 Olá, eu sou o Luiz
+
+Sou estudante e entusiasta de **Cibersegurança**, sempre buscando aprender mais sobre segurança ofensiva, Linux, redes e automação.  
+Meu objetivo é construir uma carreira na área de **Red Team** (pentest e exploração de vulnerabilidades).
+
+---
+
+## 🚀 Sobre mim
+- 🔐 Interesses: Cibersegurança, Linux, Pentest, Redes.
+- 📚 Atualmente estudando: Bash, Linux, Python e fundamentos de redes.
+- 🎯 Objetivo: Tornar-me profissional em **Pentest**.
+- 🧑‍💻 Explorando: TryHackMe, HackTheBox e laboratórios de prática.
+
+---
+
+
+## 🛠️ Tecnologias & Ferramentas
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40"/>
 </div>
-<hr>
-<div style="display: flex; gap: 20px;">
-<img src="https://imgs.search.brave.com/c2R3XyrNbDL0MgrGPdDJFAiibowmGOwqNifC79pZSiw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/cC13SU82NEhONWNB/QUFBTS93YWtlLXVw/LmdpZg.gif" width="200" height="200" />
-<img src="https://imgs.search.brave.com/uwwt3xOBpr76JmZK284KFTwgAFTkihOUt18SGXAsI80/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/dmZTYnZGMy1FV3dB/QUFBTS93ZWFwb24t/aG9ybmV0LmdpZg.gif" width="200" height="200" />
 
+---
 
-  
-</div>
-          
-                       
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiz-eidt-xp&show_icons=true&theme=tokyonight)
 
-          
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-eidt-xp&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Onde me encontrar
+- GitHub: [github.com/SEU-USUARIO](https://github.com/luiz-eidt-xp)
+
+---
+⭐ Se quiser acompanhar minha jornada, fique à vontade para seguir aqui no GitHub!
+```
