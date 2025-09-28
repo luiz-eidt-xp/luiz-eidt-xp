@@ -14,7 +14,7 @@ Meu objetivo é construir uma carreira na área de **Red Team** (pentest e explo
 
 ---
 
-## 📜 Certificados em Cibersegurança
+## 📜 Certificados
 
 Confira meu repositório de certificados conquistados:
 
