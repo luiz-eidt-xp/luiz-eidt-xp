@@ -1,16 +1,14 @@
 
 # 👋 Olá, eu sou o Luiz
 
-Sou estudante e entusiasta de **Cibersegurança**, sempre buscando aprender mais sobre segurança ofensiva, Linux, redes e automação.  
+Sou estudante e entusiasta de **Cibersegurança**.
 Meu objetivo é construir uma carreira na área de **Red Team** (pentest e exploração de vulnerabilidades).
 
 ---
 
 ## 🚀 Sobre mim
-- 🔐 Interesses: Cibersegurança, Linux, Pentest, Redes.
 - 📚 Atualmente estudando: Bash, Linux, Python e fundamentos de redes.
 - 🎯 Objetivo: Tornar-me profissional em **Pentest**.
-- 🧑‍💻 Explorando: TryHackMe, HackTheBox e laboratórios de prática.
 
 ---
 
