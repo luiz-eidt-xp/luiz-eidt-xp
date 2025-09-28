@@ -14,6 +14,13 @@ Meu objetivo é construir uma carreira na área de **Red Team** (pentest e explo
 
 ---
 
+## 📜 Certificados em Cibersegurança
+
+Confira meu repositório de certificados conquistados:
+
+[![Meus Certificados](https://img.shields.io/badge/Certificados-Cibersegurança-blue?style=for-the-badge&logo=github)](https://github.com/luiz-eidt-xp/certificados)
+
+---
 
 ## 🛠️ Tecnologias & Ferramentas
 <div>
