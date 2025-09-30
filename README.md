@@ -25,7 +25,7 @@ Confira meu repositório de certificados conquistados:
 Estou documentando todas as máquinas que resolvi em laboratórios e CTFs.  
 Confira meus relatórios detalhados, scripts e evidências no repositório abaixo:
 
-[![write-up](https://img.shields.io/badge/Write--up-CTF-blue?style=for-the-badge&logo=github)](https://github.com/luiz-eidt-xp/write-up)
+[![write-up](https://img.shields.io/badge/Write--up-CTF-blue?style=for-the-badge&logo=github)](https://github.com/luiz-eidt-xp/write-ups)
 
 ---
 
