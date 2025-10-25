@@ -1,35 +1,34 @@
 
-# 👋 Olá, eu sou o Luiz
+# Informações Úteis sobre mim :)
 
-Sou estudante e entusiasta de **Cibersegurança**.
-Meu objetivo é construir uma carreira na área de **Red Team** (pentest e exploração de vulnerabilidades).
-
----
-
-## 🚀 Sobre mim
-- 📚 Atualmente estudando: Bash, Linux, Python e fundamentos de redes.
-- 🎯 Objetivo: Tornar-me profissional em **Pentest**.
+Eu ando aprendendo e estudando sobre **Cibersegurança**
+Meu objetivo é focar mais em pentest e tals
 
 ---
 
-## 📜 Certificados
+## + Sobre mim
+- Atualmente eu to estudando: Bash, Linux, Python e fundamentos de redes
+- Objetivo: Arranjar emprego :/
 
-Confira meu repositório de certificados conquistados:
+---
+
+## $ Certificados
+
+Aqui esta todos os certificados que consegui até agr
 
 [![Meus Certificados](https://img.shields.io/badge/Certificados-Cibersegurança-blue?style=for-the-badge&logo=github)](https://github.com/luiz-eidt-xp/certificados_cybersec)
 
 ---
 
-## 📝 Meus Write-ups CTF
+## ∆ Meus Write-ups CTF
 
-Estou documentando todas as máquinas que resolvi em laboratórios e CTFs.  
-Confira meus relatórios detalhados, scripts e evidências no repositório abaixo:
+Estou fazendo anotações sobre cada maquina, CTF ou lab que faço, olha ai se tiver curiosidade 0_0
 
 [![write-up](https://img.shields.io/badge/Write--up-CTF-blue?style=for-the-badge&logo=github)](https://github.com/luiz-eidt-xp/write-ups)
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" width="40"/>
@@ -43,14 +42,14 @@ Confira meus relatórios detalhados, scripts e evidências no repositório abaix
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas do meu perfil :3
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiz-eidt-xp&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-eidt-xp&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Onde me encontrar
+## Onde me encontrar ?-?
 - GitHub: [github.com/luiz-eidt-xp](https://github.com/luiz-eidt-xp)
 
 ---
