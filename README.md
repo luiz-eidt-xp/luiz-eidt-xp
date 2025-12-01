@@ -2,12 +2,12 @@
 # Informações Úteis sobre mim :)
 
 Eu ando aprendendo e estudando sobre **Cibersegurança**
-Meu objetivo é focar mais em pentest e tals
+Mas meu foco é na eletrônica e em arduino e etc
 
 ---
 
 ## + Sobre mim
-- Atualmente eu to estudando: Bash, Linux, Python e fundamentos de redes
+- Atualmente eu to estudando: Eletrônica Geral, C/C++, linux, redes e servidores
 - Objetivo: Arranjar emprego :/
 
 ---
