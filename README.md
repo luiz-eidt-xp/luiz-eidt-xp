@@ -1,13 +1,13 @@
 
 # Informações Úteis sobre mim :)
 
-Eu ando aprendendo e estudando sobre **Cibersegurança**
-Mas meu foco é na eletrônica e em arduino e etc
+Eu ando aprendendo e estudando sobre **Analise de Dados**
+
 
 ---
 
 ## + Sobre mim
-- Atualmente eu to estudando: Eletrônica Geral, C/C++, linux, redes e servidores
+- Atualmente eu to estudando: Python, Pandas e exel
 - Objetivo: Arranjar emprego :/
 
 ---
@@ -16,7 +16,7 @@ Mas meu foco é na eletrônica e em arduino e etc
 
 Aqui esta todos os certificados que consegui até agr
 
-[![Meus Certificados](https://img.shields.io/badge/Certificados-Cibersegurança-blue?style=for-the-badge&logo=github)](https://github.com/luiz-eidt-xp/certificados_cybersec)
+[![Certificados CyberSec](https://img.shields.io/badge/Certificados-Cibersegurança-blue?style=for-the-badge&logo=github)](https://github.com/luiz-eidt-xp/certificados_cybersec)
 
 ---
 
@@ -30,13 +30,17 @@ Estou fazendo anotações sobre cada maquina, CTF ou lab que faço, olha ai se t
 
 ## Tecnologias & Ferramentas
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40" />         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" />
+          
+          
+          
+          
+
           
 </div>
 
