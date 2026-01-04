@@ -20,6 +20,14 @@ Aqui esta todos os certificados que consegui até agr
 
 ---
 
+## ~ Meus Projetos
+
+Organizei meus principais projetos em um repositório separado, com descrição, tecnologias usadas e links.
+
+**[Acesse meu repositório de projetos](https://github.com/luiz-eidt-xp/meus-projetos)**
+
+---
+
 ## ∆ Meus Write-ups CTF
 
 Estou fazendo anotações sobre cada maquina, CTF ou lab que faço, olha ai se tiver curiosidade 0_0
