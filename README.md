@@ -1,69 +1,61 @@
-
-# Informações Úteis sobre mim :)
-
-Eu ando aprendendo e estudando sobre **Analise de Dados**
-
-
----
-
-## + Sobre mim
-- Atualmente eu to estudando: Python, Pandas e exel
-- Objetivo: Arranjar emprego :/
-
----
-
-## $ Certificados
-
-Aqui esta todos os certificados que consegui até agr
-
-[![Certificados CyberSec](https://img.shields.io/badge/Certificados-Cibersegurança-blue?style=for-the-badge&logo=github)](https://github.com/luiz-eidt-xp/certificados_cybersec)
-
----
-
-## ~ Meus Projetos
-
-Organizei meus principais projetos em um repositório separado, com descrição, tecnologias usadas e links.
-
-**[Acesse meu repositório de projetos](https://github.com/luiz-eidt-xp/meus-projetos)**
-
----
-
-## ∆ Meus Write-ups CTF
-
-Estou fazendo anotações sobre cada maquina, CTF ou lab que faço, olha ai se tiver curiosidade 0_0
-
-[![write-up](https://img.shields.io/badge/Write--up-CTF-blue?style=for-the-badge&logo=github)](https://github.com/luiz-eidt-xp/write-ups)
-
----
-
-## Tecnologias & Ferramentas
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40" />         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" />
-          
-          
-          
-          
-
-          
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="tryhackme logo"  />
 </div>
 
----
+###
 
-## Estatísticas do meu perfil :3
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiz-eidt-xp&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=luiz-eidt-xp.luiz-eidt-xp&"  />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-eidt-xp&layout=compact&theme=tokyonight)
+###
 
----
+<div align="right">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDB5bHlxYTZiM2s0ZTEycGYxbTZ3eG41NzF3amM1M2lmYjNjYnV6ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nei3V7XiDEfZKEHu8l/giphy.gif"  />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRsMjYwNXc5M3RwdGswbm5sNzR4YWRndm1kNWFoajhpampiamZsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oxkstoJPg7JYSFcxd4/giphy.gif"  />
+</div>
 
-## Onde me encontrar ?-?
-- GitHub: [github.com/luiz-eidt-xp](https://github.com/luiz-eidt-xp)
+###
 
----
-⭐ Se quiser acompanhar minha jornada, fique à vontade para seguir aqui no GitHub!
-```
+<h1 align="left">👋 Hi, I'm Luiz</h1>
+
+###
+
+<h4 align="left">💻 Programming student focused on Python, Discord bots and backend fundamentals  <br>🐧 Linux Mint user | Learning by building real projects</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luiz-eidt-xp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luiz-eidt-xp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="center">My projects!!</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/luiz-eidt-xp/luiz-eidt-xp/output/snake.svg" alt="Snake animation" />
+
+###
