@@ -88,7 +88,7 @@
       </td>
     </tr>
     <tr>
-      <td>Redes</td>
+      <td>Redes & Infra</td>
       <td>Certificados relacionados a redes de computadores e infraestrutura</td>
       <td>
         <a href="https://github.com/luiz-eidt-xp/" target="_blank">
