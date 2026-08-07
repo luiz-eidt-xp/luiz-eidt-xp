@@ -24,7 +24,7 @@
 <h1 align="left">Oi, eu sou Luiz</h1>
 
 <h4 align="left">
-Atualmente estou no ensino médio, mas pretendo no futuro trabalhar com redes e infraestrutura. Amo o que faço e sou apaixonado por tecnologia.
+  Sou estudante do ensino médio e estou construindo minha base em redes de computadores e infraestrutura, com interesse em cloud, Linux, automação e cybersecurity.
 </h4>
 
 ---
@@ -32,21 +32,22 @@ Atualmente estou no ensino médio, mas pretendo no futuro trabalhar com redes e 
 <h2 align="left">Tecnologias & Ferramentas</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"  width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"height="40"  width="40" />      
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"  width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"height="40"  width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"  width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40"  width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="40"  width="40" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="40" width="40"/>
+</div>
+
 ---
 
 <h2 align="left">Projetos</h2>
 
 <p align="left">
-Projetos técnicos
+  Laboratórios e projetos técnicos relacionados a redes, infraestrutura, cloud e programação.
 </p>
 
 <div align="left">
@@ -70,7 +71,7 @@ Projetos técnicos
   <tbody>
     <tr>
       <td>Cibersegurança</td>
-      <td>Certificados relacionados a segurança da informação</td>
+      <td>Certificados relacionados à segurança da informação</td>
       <td>
         <a href="https://github.com/luiz-eidt-xp/certificados_cybersec" target="_blank">
           Ver no GitHub
@@ -79,15 +80,16 @@ Projetos técnicos
     </tr>
     <tr>
       <td>Programação</td>
-      <td>Certificados sobre cursos de programação</td>
+      <td>Certificados relacionados à programação e desenvolvimento</td>
       <td>
         <a href="https://github.com/luiz-eidt-xp/certificados_programacao" target="_blank">
           Ver no GitHub
         </a>
       </td>
     </tr>
+    <tr>
       <td>Redes</td>
-      <td>Certificados sobre cursos de programação</td>
+      <td>Certificados relacionados a redes de computadores e infraestrutura</td>
       <td>
         <a href="https://github.com/luiz-eidt-xp/" target="_blank">
           Ver no GitHub
@@ -110,7 +112,7 @@ Projetos técnicos
   </thead>
   <tbody>
     <tr>
-      <td>Anotações que fiz sobre maquinas ou ctfs que fiz</td>
+      <td>Anotações e write-ups de máquinas, laboratórios e CTFs que realizei</td>
       <td>
         <a href="https://github.com/luiz-eidt-xp/write-ups" target="_blank">
           Ver no GitHub
