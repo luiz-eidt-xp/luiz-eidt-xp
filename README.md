@@ -5,9 +5,6 @@
   <a href="https://www.youtube.com/@lin_dev" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-39C5BB?style=for-the-badge&logo=youtube&logoColor=white" height="26"/>
   </a>
-  <a href="https://www.codewars.com/users/luiz-eidt-xp" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-39C5BB?style=for-the-badge&logo=codewars&logoColor=white" height="26"/>
-  </a>
   <a href="https://app.hackthebox.com/users/2679781" target="_blank">
     <img src="https://img.shields.io/badge/HackTheBox-39C5BB?style=for-the-badge&logo=hackthebox&logoColor=black" height="26"/>
   </a>
@@ -24,10 +21,10 @@
 
 ---
 
-<h1 align="left">Oi, eu sou Luiz (o_o)</h1>
+<h1 align="left">Oi, eu sou Luiz</h1>
 
 <h4 align="left">
-Eu estudo programação mais por hobby, mas desejo futuramente trabalhar com isso, só n sei em que área :/
+Atualmente estou no ensino médio, mas pretendo no futuro trabalhar com redes e infraestrutura. Amo o que faço e sou apaixonado por tecnologia.
 </h4>
 
 ---
@@ -37,25 +34,22 @@ Eu estudo programação mais por hobby, mas desejo futuramente trabalhar com iss
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-</div>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
+          
 ---
 
 <h2 align="left">Projetos</h2>
 
 <p align="left">
-Meus projetos pessoais que fiz ao longo da vida kk
+Projetos técnicos
 </p>
 
 <div align="left">
@@ -91,6 +85,14 @@ Meus projetos pessoais que fiz ao longo da vida kk
       <td>Certificados sobre cursos de programação</td>
       <td>
         <a href="https://github.com/luiz-eidt-xp/certificados_programacao" target="_blank">
+          Ver no GitHub
+        </a>
+      </td>
+    </tr>
+      <td>Redes</td>
+      <td>Certificados sobre cursos de programação</td>
+      <td>
+        <a href="https://github.com/luiz-eidt-xp/" target="_blank">
           Ver no GitHub
         </a>
       </td>
