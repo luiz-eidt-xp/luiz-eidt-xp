@@ -24,7 +24,7 @@
 <h1 align="left">Oi, eu sou Luiz</h1>
 
 <h4 align="left">
-  Sou estudante do ensino médio e estou construindo minha base em redes de computadores e infraestrutura, com interesse em cloud, Linux, automação e cybersecurity.
+  Sou estudante do ensino médio e estou construindo minha carreira em tecnologia.
 </h4>
 
 ---
@@ -36,11 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="40" width="40"/>
-</div>
+  
 
 ---
 
