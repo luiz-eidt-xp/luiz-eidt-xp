@@ -65,4 +65,48 @@ Laboratórios e projetos práticos relacionados a redes, infraestrutura, cloud, 
 
 <div align="left">
   <a href="https://github.com/luiz-eidt-xp/meus-projetos" target="_blank">
-    <img src="https://i
+    <img src="https://img.shields.io/badge/Meus%20Projetos-GitHub-39C5BB?style=for-the-badge&logo=github&logoColor=white" alt="Meus Projetos" />
+  </a>
+</div>
+
+---
+
+## Write-ups
+
+Anotações e write-ups de máquinas, laboratórios e CTFs realizados durante meus estudos.
+
+<div align="left">
+  <a href="https://github.com/luiz-eidt-xp/write-ups" target="_blank">
+    <img src="https://img.shields.io/badge/Write--ups-GitHub-39C5BB?style=for-the-badge&logo=github&logoColor=white" alt="Write-ups" />
+  </a>
+</div>
+
+---
+
+## Certificados
+
+Certificados relacionados às áreas estudadas, organizados por categorias no repositório.
+
+<div align="left">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Certificados-GitHub-39C5BB?style=for-the-badge&logo=github&logoColor=white" alt="Certificados" />
+  </a>
+</div>
+
+---
+
+## Contato
+
+<div align="left">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-39C5BB?style=for-the-badge&logo=linkedin&logoColor=white" height="26" alt="LinkedIn" />
+  </a>
+
+  <a href="https://instagram.com/lyin_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-39C5BB?style=for-the-badge&logo=instagram&logoColor=white" height="26" alt="Instagram" />
+  </a>
+
+  <a href="mailto:luizdt.ssh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-39C5BB?style=for-the-badge&logo=gmail&logoColor=white" height="26" alt="E-mail" />
+  </a>
+</div>
