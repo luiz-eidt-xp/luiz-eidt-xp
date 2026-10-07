@@ -130,7 +130,7 @@ Estudos, análises e documentações técnicas.
 
 ### Certificados
 
-Cursos, certificações e aprendizados.
+Cursos, certificações, aprendizados e provas da minha capacidade técnica.
 
 <br>
 
